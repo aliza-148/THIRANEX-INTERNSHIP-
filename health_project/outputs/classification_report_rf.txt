@@ -1,0 +1,10 @@
+Random Forest Classification Report
+========================================
+              precision    recall  f1-score   support
+
+ No Diabetes       0.72      0.88      0.79       325
+    Diabetes       0.62      0.37      0.46       175
+
+    accuracy                           0.70       500
+   macro avg       0.67      0.62      0.63       500
+weighted avg       0.69      0.70      0.68       500
